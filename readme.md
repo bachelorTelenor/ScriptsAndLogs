@@ -13,5 +13,10 @@ The Scripts directory contains scripts used during the project. Note that most o
 
 The drirectory ```Script used during the project``` contain a collection of script used as tools during the project to process and work with data. They were changed and used as needed and most of them was for a very spesific problem and several of them was just to test somthings. ```Superparameter Test Scripts``` contains some simple scripts to test superparameter propositions with the data collected from the tests. Finaly the ```Data Visualization Scrips``` contains scripts used to visualize data from the tests for the report. 
 
+**NOTE:** In order to use the scripts that acts as a client for Elasticsearch, you need the ```http_ca.crt``` for the Elasticsearch instance. You can get it by running the following command:
+```docker
+docker cp es-node01:/usr/share/elasticsearch/config/certs/http_ca.crt .
+```
+
 ## Thingy91
 The Thingy91 directorry contains some configuration and setup for the Thingy 91 that was going to be used for the project. As decided agains using this device, the content in dircectory is mostly unfinished.
