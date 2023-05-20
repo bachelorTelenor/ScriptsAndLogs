@@ -1,0 +1,1277 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2023.02.20 16:44:03 =~=~=~=~=~=~=~=~=~=~=~=
+[00:00:07.606,933] [0m<inf> Lesson6_Exercise1: RRC mode: Connected[0m
+[00:00:10.694,915] [0m<inf> Lesson6_Exercise1: Network registration status: Connected - roaming[0m
+[00:00:10.695,068] [0m<inf> Lesson6_Exercise1: Connected to LTE network[0m
+[00:00:10.697,143] [0m<inf> Lesson6_Exercise1: Deactivating LTE[0m
+[00:00:12.063,110] [0m<inf> Lesson6_Exercise1: RRC mode: Idle[0m
+[00:00:12.169,403] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:12.169,433] [0m<inf> Lesson6_Exercise1: Number of current satellites: 0[0m
+[00:00:13.169,921] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:13.169,982] [0m<inf> Lesson6_Exercise1: Number of current satellites: 0[0m
+[00:00:14.169,525] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:14.169,525] [0m<inf> Lesson6_Exercise1: Number of current satellites: 0[0m
+[00:00:15.169,494] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:15.169,525] [0m<inf> Lesson6_Exercise1: Number of current satellites: 0[0m
+[00:00:16.170,257] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:16.170,288] [0m<inf> Lesson6_Exercise1: Number of current satellites: 0[0m
+[00:00:17.170,593] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:17.170,623] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 274[0m
+[00:00:17.170,654] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 393[0m
+[00:00:17.170,654] [0m<inf> Lesson6_Exercise1: Number of current satellites: 2[0m
+[00:00:18.170,593] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:18.170,623] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 274[0m
+[00:00:18.170,623] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 352[0m
+[00:00:18.170,654] [0m<inf> Lesson6_Exercise1: Number of current satellites: 2[0m
+[00:00:19.171,569] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:19.171,600] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 150[0m
+[00:00:19.171,630] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 363[0m
+[00:00:19.171,630] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 354[0m
+[00:00:19.171,661] [0m<inf> Lesson6_Exercise1: Number of current satellites: 3[0m
+[00:00:20.171,691] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:20.171,691] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 19[0m
+[00:00:20.171,691] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 369[0m
+[00:00:20.171,722] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 339[0m
+[00:00:20.171,722] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 359[0m
+[00:00:20.171,752] [0m<inf> Lesson6_Exercise1: Number of current satellites: 4[0m
+[00:00:21.171,661] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:21.171,691] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 51[0m
+[00:00:21.171,691] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 371[0m
+[00:00:21.171,722] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 352[0m
+[00:00:21.171,722] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 315[0m
+[00:00:21.171,752] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 347[0m
+[00:00:21.171,752] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:22.172,027] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:22.172,058] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:22.172,058] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 372[0m
+[00:00:22.172,088] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 352[0m
+[00:00:22.172,088] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 315[0m
+[00:00:22.172,119] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 249[0m
+[00:00:22.172,119] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:23.171,539] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:23.171,569] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 62[0m
+[00:00:23.171,569] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 370[0m
+[00:00:23.171,600] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 359[0m
+[00:00:23.171,600] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 320[0m
+[00:00:23.171,630] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 125[0m
+[00:00:23.171,630] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:24.172,210] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:24.172,210] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 48[0m
+[00:00:24.172,241] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 365[0m
+[00:00:24.172,241] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 362[0m
+[00:00:24.172,271] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 320[0m
+[00:00:24.172,271] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:24.172,302] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:25.171,936] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:25.171,966] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 46[0m
+[00:00:25.171,966] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 362[0m
+[00:00:25.171,997] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 363[0m
+[00:00:25.171,997] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:00:25.172,027] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:25.172,027] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:26.171,752] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:26.171,752] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 3[0m
+[00:00:26.171,783] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 359[0m
+[00:00:26.171,783] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 365[0m
+[00:00:26.171,813] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 319[0m
+[00:00:26.171,813] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:26.171,844] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:27.172,332] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:27.172,363] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 54[0m
+[00:00:27.172,393] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 356[0m
+[00:00:27.172,393] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 363[0m
+[00:00:27.172,424] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 315[0m
+[00:00:27.172,424] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:27.172,454] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:28.172,180] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:28.172,180] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 42[0m
+[00:00:28.172,210] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 349[0m
+[00:00:28.172,210] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 357[0m
+[00:00:28.172,241] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 318[0m
+[00:00:28.172,271] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:28.172,271] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:29.172,180] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:29.172,210] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:29.172,241] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 347[0m
+[00:00:29.172,241] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 351[0m
+[00:00:29.172,271] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:00:29.172,271] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:29.172,302] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:30.172,149] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:30.172,180] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 74[0m
+[00:00:30.172,180] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 341[0m
+[00:00:30.172,210] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 350[0m
+[00:00:30.172,241] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 313[0m
+[00:00:30.172,241] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:30.172,241] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:31.172,637] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:31.172,668] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 94[0m
+[00:00:31.172,668] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 340[0m
+[00:00:31.172,698] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 347[0m
+[00:00:31.172,698] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 313[0m
+[00:00:31.172,698] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:31.172,729] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:32.173,034] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:32.173,065] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 42[0m
+[00:00:32.173,065] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 345[0m
+[00:00:32.173,095] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 348[0m
+[00:00:32.173,095] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 305[0m
+[00:00:32.173,126] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 45[0m
+[00:00:32.173,126] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:33.172,607] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:33.172,637] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 6[0m
+[00:00:33.172,668] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 345[0m
+[00:00:33.172,668] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 350[0m
+[00:00:33.172,668] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 304[0m
+[00:00:33.172,698] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 12[0m
+[00:00:33.172,698] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:34.173,278] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:34.173,309] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 59[0m
+[00:00:34.173,309] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 341[0m
+[00:00:34.173,309] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 344[0m
+[00:00:34.173,339] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:00:34.173,370] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 40[0m
+[00:00:34.173,370] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:35.172,821] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:35.172,851] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 87[0m
+[00:00:35.172,851] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 311[0m
+[00:00:35.172,882] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 327[0m
+[00:00:35.172,882] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 309[0m
+[00:00:35.172,912] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 4[0m
+[00:00:35.172,912] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 278[0m
+[00:00:35.172,912] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:36.173,400] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:36.173,400] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 265[0m
+[00:00:36.173,431] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 308[0m
+[00:00:36.173,431] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 306[0m
+[00:00:36.173,461] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 310[0m
+[00:00:36.173,461] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 37[0m
+[00:00:36.173,492] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 253[0m
+[00:00:36.173,492] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:37.174,499] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:37.174,560] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 265[0m
+[00:00:37.174,560] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 293[0m
+[00:00:37.174,560] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 299[0m
+[00:00:37.174,591] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 310[0m
+[00:00:37.174,591] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 43[0m
+[00:00:37.174,621] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 247[0m
+[00:00:37.174,621] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 267[0m
+[00:00:37.174,652] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:00:38.173,583] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:38.173,614] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 201[0m
+[00:00:38.173,645] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 269[0m
+[00:00:38.173,645] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 287[0m
+[00:00:38.173,645] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 307[0m
+[00:00:38.173,675] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 114[0m
+[00:00:38.173,675] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 241[0m
+[00:00:38.173,706] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 245[0m
+[00:00:38.173,706] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 263[0m
+[00:00:38.173,736] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:00:39.174,224] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:39.174,285] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 95[0m
+[00:00:39.174,285] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 261[0m
+[00:00:39.174,285] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 272[0m
+[00:00:39.174,316] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 301[0m
+[00:00:39.174,316] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 20[0m
+[00:00:39.174,346] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 244[0m
+[00:00:39.174,346] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 251[0m
+[00:00:39.174,377] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:00:40.173,645] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:40.173,675] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 40[0m
+[00:00:40.173,675] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 267[0m
+[00:00:40.173,706] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:00:40.173,706] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 303[0m
+[00:00:40.173,736] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 8[0m
+[00:00:40.173,736] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 243[0m
+[00:00:40.173,767] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 244[0m
+[00:00:40.173,767] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:00:41.173,706] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:41.173,736] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:41.173,767] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 256[0m
+[00:00:41.173,767] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:00:41.173,797] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 290[0m
+[00:00:41.173,797] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 48[0m
+[00:00:41.173,828] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 241[0m
+[00:00:41.173,828] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:42.173,431] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:42.173,461] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:42.173,461] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 255[0m
+[00:00:42.173,492] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:00:42.173,492] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 295[0m
+[00:00:42.173,522] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:42.173,522] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 250[0m
+[00:00:42.173,553] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:43.173,400] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:43.173,431] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:43.173,431] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 250[0m
+[00:00:43.173,461] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 264[0m
+[00:00:43.173,461] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 286[0m
+[00:00:43.173,492] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 30[0m
+[00:00:43.173,492] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 245[0m
+[00:00:43.173,522] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:44.173,675] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:44.173,675] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 42[0m
+[00:00:44.173,706] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 244[0m
+[00:00:44.173,706] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 267[0m
+[00:00:44.173,736] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 289[0m
+[00:00:44.173,736] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 94[0m
+[00:00:44.173,767] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 243[0m
+[00:00:44.173,767] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:45.173,767] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:45.173,797] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:45.173,797] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 256[0m
+[00:00:45.173,828] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 266[0m
+[00:00:45.173,828] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 284[0m
+[00:00:45.173,858] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 33[0m
+[00:00:45.173,858] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 243[0m
+[00:00:45.173,889] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:46.173,614] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:46.173,645] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 44[0m
+[00:00:46.173,645] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 260[0m
+[00:00:46.173,675] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 271[0m
+[00:00:46.173,675] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 287[0m
+[00:00:46.173,706] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 71[0m
+[00:00:46.173,706] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:47.173,889] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:47.173,919] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 41[0m
+[00:00:47.173,950] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 259[0m
+[00:00:47.173,950] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 268[0m
+[00:00:47.173,980] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 277[0m
+[00:00:47.173,980] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 83[0m
+[00:00:47.174,011] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:00:48.173,706] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:48.173,706] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:48.173,736] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 260[0m
+[00:00:48.173,736] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:00:48.173,767] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 282[0m
+[00:00:48.173,797] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 12[0m
+[00:00:48.173,797] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 251[0m
+[00:00:48.173,797] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:49.174,072] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:49.174,102] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 32[0m
+[00:00:49.174,133] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 259[0m
+[00:00:49.174,133] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 269[0m
+[00:00:49.174,163] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 273[0m
+[00:00:49.174,163] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 101[0m
+[00:00:49.174,194] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 244[0m
+[00:00:49.174,194] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:50.173,919] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:50.173,950] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 20[0m
+[00:00:50.173,950] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 250[0m
+[00:00:50.173,980] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 269[0m
+[00:00:50.173,980] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 277[0m
+[00:00:50.174,011] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 64[0m
+[00:00:50.174,011] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 246[0m
+[00:00:50.174,041] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:51.173,522] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:51.173,583] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 90[0m
+[00:00:51.173,583] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 254[0m
+[00:00:51.173,583] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:00:51.173,614] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 272[0m
+[00:00:51.173,614] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 73[0m
+[00:00:51.173,645] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 244[0m
+[00:00:51.173,645] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:52.174,194] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:52.174,194] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 99[0m
+[00:00:52.174,224] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 262[0m
+[00:00:52.174,224] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 272[0m
+[00:00:52.174,255] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 281[0m
+[00:00:52.174,255] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 0[0m
+[00:00:52.174,255] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 258[0m
+[00:00:52.174,285] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:53.174,377] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:53.174,407] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 93[0m
+[00:00:53.174,407] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 268[0m
+[00:00:53.174,438] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 274[0m
+[00:00:53.174,438] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 284[0m
+[00:00:53.174,468] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 50[0m
+[00:00:53.174,468] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 246[0m
+[00:00:53.174,468] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:54.173,919] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:54.173,919] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 96[0m
+[00:00:54.173,950] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 271[0m
+[00:00:54.173,980] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:00:54.173,980] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 292[0m
+[00:00:54.174,011] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 303[0m
+[00:00:54.174,011] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 244[0m
+[00:00:54.174,041] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:55.174,285] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:55.174,316] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 16[0m
+[00:00:55.174,346] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 269[0m
+[00:00:55.174,346] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:00:55.174,377] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 288[0m
+[00:00:55.174,377] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 293[0m
+[00:00:55.174,407] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 244[0m
+[00:00:55.174,407] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:56.175,476] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:56.175,476] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:00:56.175,506] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 273[0m
+[00:00:56.175,506] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:00:56.175,537] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 296[0m
+[00:00:56.175,537] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 296[0m
+[00:00:56.175,567] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 267[0m
+[00:00:56.175,567] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:00:57.175,659] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:57.175,689] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 69[0m
+[00:00:57.175,689] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 267[0m
+[00:00:57.175,720] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:00:57.175,720] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 293[0m
+[00:00:57.175,720] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 296[0m
+[00:00:57.175,750] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 247[0m
+[00:00:57.175,750] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 260[0m
+[00:00:57.175,781] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 301[0m
+[00:00:57.175,781] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:00:58.176,513] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:58.176,544] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 85[0m
+[00:00:58.176,574] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 261[0m
+[00:00:58.176,574] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 268[0m
+[00:00:58.176,574] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 293[0m
+[00:00:58.176,605] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 295[0m
+[00:00:58.176,605] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 247[0m
+[00:00:58.176,635] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 248[0m
+[00:00:58.176,635] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 254[0m
+[00:00:58.176,666] [0m<inf> Lesson6_Exercise1: sv: 21, cn0: 247[0m
+[00:00:58.176,666] [0m<inf> Lesson6_Exercise1: Number of current satellites: 9[0m
+[00:00:59.175,720] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:00:59.175,781] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 53[0m
+[00:00:59.175,781] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 257[0m
+[00:00:59.175,781] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 268[0m
+[00:00:59.175,811] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 286[0m
+[00:00:59.175,811] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 292[0m
+[00:00:59.175,842] [0m<inf> Lesson6_Exercise1: sv: 28, cn0: 241[0m
+[00:00:59.175,842] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 245[0m
+[00:00:59.175,872] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 245[0m
+[00:00:59.175,872] [0m<inf> Lesson6_Exercise1: sv: 21, cn0: 242[0m
+[00:00:59.175,903] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 272[0m
+[00:00:59.175,903] [0m<inf> Lesson6_Exercise1: Number of current satellites: 10[0m
+[00:01:00.174,468] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:00.174,499] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:00.174,530] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 257[0m
+[00:01:00.174,530] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:01:00.174,560] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 286[0m
+[00:01:00.174,560] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 294[0m
+[00:01:00.174,591] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 245[0m
+[00:01:00.174,591] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 241[0m
+[00:01:00.174,621] [0m<inf> Lesson6_Exercise1: sv: 21, cn0: 244[0m
+[00:01:00.174,621] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 246[0m
+[00:01:00.174,652] [0m<inf> Lesson6_Exercise1: Number of current satellites: 9[0m
+[00:01:01.175,567] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:01.175,598] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 54[0m
+[00:01:01.175,628] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 257[0m
+[00:01:01.175,628] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 271[0m
+[00:01:01.175,659] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 276[0m
+[00:01:01.175,659] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 296[0m
+[00:01:01.175,659] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 245[0m
+[00:01:01.175,689] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:02.176,696] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:02.176,696] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:02.176,727] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 259[0m
+[00:01:02.176,727] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:01:02.176,757] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 271[0m
+[00:01:02.176,757] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 298[0m
+[00:01:02.176,788] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 254[0m
+[00:01:02.176,788] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 259[0m
+[00:01:02.176,818] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 266[0m
+[00:01:02.176,818] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 236[0m
+[00:01:02.176,849] [0m<inf> Lesson6_Exercise1: Number of current satellites: 9[0m
+[00:01:03.177,459] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:03.177,490] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:03.177,520] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 261[0m
+[00:01:03.177,520] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 263[0m
+[00:01:03.177,551] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 264[0m
+[00:01:03.177,551] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 294[0m
+[00:01:03.177,581] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 245[0m
+[00:01:03.177,581] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 246[0m
+[00:01:03.177,612] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 245[0m
+[00:01:03.177,612] [0m<inf> Lesson6_Exercise1: sv: 25, cn0: 255[0m
+[00:01:03.177,612] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 267[0m
+[00:01:03.177,642] [0m<inf> Lesson6_Exercise1: Number of current satellites: 10[0m
+[00:01:04.176,910] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:04.176,940] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:04.176,971] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 265[0m
+[00:01:04.176,971] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 263[0m
+[00:01:04.177,001] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 272[0m
+[00:01:04.177,001] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 293[0m
+[00:01:04.177,001] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 243[0m
+[00:01:04.177,032] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 244[0m
+[00:01:04.177,032] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 249[0m
+[00:01:04.177,062] [0m<inf> Lesson6_Exercise1: sv: 25, cn0: 246[0m
+[00:01:04.177,062] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 245[0m
+[00:01:04.177,093] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 257[0m
+[00:01:04.177,124] [0m<inf> Lesson6_Exercise1: Number of current satellites: 11[0m
+[00:01:05.188,018] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:05.188,049] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 65[0m
+[00:01:05.188,079] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 270[0m
+[00:01:05.188,079] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 265[0m
+[00:01:05.188,110] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 274[0m
+[00:01:05.188,110] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 295[0m
+[00:01:05.188,110] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 238[0m
+[00:01:05.188,140] [0m<inf> Lesson6_Exercise1: sv: 25, cn0: 243[0m
+[00:01:05.188,140] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 243[0m
+[00:01:05.188,171] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 245[0m
+[00:01:05.188,171] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 248[0m
+[00:01:05.188,201] [0m<inf> Lesson6_Exercise1: Number of current satellites: 10[0m
+[00:01:06.176,971] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:06.177,001] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:06.177,001] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 271[0m
+[00:01:06.177,032] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 261[0m
+[00:01:06.177,032] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 278[0m
+[00:01:06.177,062] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 295[0m
+[00:01:06.177,062] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 252[0m
+[00:01:06.177,093] [0m<inf> Lesson6_Exercise1: sv: 25, cn0: 242[0m
+[00:01:06.177,093] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 250[0m
+[00:01:06.177,093] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 243[0m
+[00:01:06.177,124] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 243[0m
+[00:01:06.177,154] [0m<inf> Lesson6_Exercise1: Number of current satellites: 10[0m
+[00:01:07.176,666] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:07.176,696] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:07.176,696] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 278[0m
+[00:01:07.176,727] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 261[0m
+[00:01:07.176,727] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 283[0m
+[00:01:07.176,757] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 300[0m
+[00:01:07.176,757] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 245[0m
+[00:01:07.176,788] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 243[0m
+[00:01:07.176,788] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 239[0m
+[00:01:07.176,788] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:08.176,574] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:08.176,605] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 8[0m
+[00:01:08.176,605] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 271[0m
+[00:01:08.176,635] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 257[0m
+[00:01:08.176,635] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 288[0m
+[00:01:08.176,666] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 298[0m
+[00:01:08.176,666] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 245[0m
+[00:01:08.176,666] [0m<inf> Lesson6_Exercise1: sv: 30, cn0: 240[0m
+[00:01:08.176,696] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:09.175,506] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:09.175,537] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 0[0m
+[00:01:09.175,567] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 268[0m
+[00:01:09.175,567] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 248[0m
+[00:01:09.175,598] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 282[0m
+[00:01:09.175,598] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 293[0m
+[00:01:09.175,628] [0m<inf> Lesson6_Exercise1: sv: 3, cn0: 242[0m
+[00:01:09.175,628] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:10.176,483] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:10.176,513] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 102[0m
+[00:01:10.176,513] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 265[0m
+[00:01:10.176,544] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 250[0m
+[00:01:10.176,544] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 288[0m
+[00:01:10.176,574] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 290[0m
+[00:01:10.176,574] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 257[0m
+[00:01:10.176,605] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:11.176,910] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:11.176,940] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 273[0m
+[00:01:11.176,940] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 262[0m
+[00:01:11.176,971] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 248[0m
+[00:01:11.176,971] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 283[0m
+[00:01:11.177,001] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 291[0m
+[00:01:11.177,001] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 242[0m
+[00:01:11.177,032] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:12.177,185] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:12.177,185] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 246[0m
+[00:01:12.177,215] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 266[0m
+[00:01:12.177,215] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 249[0m
+[00:01:12.177,246] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 289[0m
+[00:01:12.177,246] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 292[0m
+[00:01:12.177,276] [0m<inf> Lesson6_Exercise1: sv: 23, cn0: 254[0m
+[00:01:12.177,276] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 237[0m
+[00:01:12.177,307] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:13.176,300] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:13.176,330] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 248[0m
+[00:01:13.176,361] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 266[0m
+[00:01:13.176,361] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 254[0m
+[00:01:13.176,391] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 284[0m
+[00:01:13.176,391] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 291[0m
+[00:01:13.176,422] [0m<inf> Lesson6_Exercise1: sv: 23, cn0: 245[0m
+[00:01:13.176,422] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 238[0m
+[00:01:13.176,422] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 272[0m
+[00:01:13.176,452] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:14.175,231] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:14.175,262] [0m<inf> Lesson6_Exercise1: sv: 32, cn0: 255[0m
+[00:01:14.175,262] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 266[0m
+[00:01:14.175,292] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 256[0m
+[00:01:14.175,292] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 292[0m
+[00:01:14.175,323] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 293[0m
+[00:01:14.175,323] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 246[0m
+[00:01:14.175,354] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:15.176,177] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:15.176,208] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 268[0m
+[00:01:15.176,208] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 265[0m
+[00:01:15.176,239] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 258[0m
+[00:01:15.176,239] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 284[0m
+[00:01:15.176,269] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 291[0m
+[00:01:15.176,269] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:16.176,757] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:16.176,757] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 248[0m
+[00:01:16.176,788] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 261[0m
+[00:01:16.176,788] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 262[0m
+[00:01:16.176,818] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 288[0m
+[00:01:16.176,818] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 290[0m
+[00:01:16.176,849] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:17.177,429] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:17.177,490] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 245[0m
+[00:01:17.177,490] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 260[0m
+[00:01:17.177,490] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 261[0m
+[00:01:17.177,520] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 278[0m
+[00:01:17.177,520] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 290[0m
+[00:01:17.177,551] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 268[0m
+[00:01:17.177,551] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:18.176,788] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:18.176,788] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 241[0m
+[00:01:18.176,818] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 261[0m
+[00:01:18.176,818] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 253[0m
+[00:01:18.176,849] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 275[0m
+[00:01:18.176,849] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 288[0m
+[00:01:18.176,879] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 248[0m
+[00:01:18.176,879] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 250[0m
+[00:01:18.176,910] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 260[0m
+[00:01:18.176,910] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:19.177,490] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:19.177,551] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 266[0m
+[00:01:19.177,551] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 248[0m
+[00:01:19.177,551] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 275[0m
+[00:01:19.177,581] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 294[0m
+[00:01:19.177,581] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 245[0m
+[00:01:19.177,612] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 244[0m
+[00:01:19.177,612] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 247[0m
+[00:01:19.177,642] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 255[0m
+[00:01:19.177,642] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:20.176,574] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:20.176,605] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 278[0m
+[00:01:20.176,635] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 269[0m
+[00:01:20.176,635] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 292[0m
+[00:01:20.176,666] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 305[0m
+[00:01:20.176,666] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 247[0m
+[00:01:20.176,666] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 242[0m
+[00:01:20.176,696] [0m<inf> Lesson6_Exercise1: sv: 9, cn0: 243[0m
+[00:01:20.176,696] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 242[0m
+[00:01:20.176,727] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:21.175,994] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:21.176,025] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 281[0m
+[00:01:21.176,025] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 274[0m
+[00:01:21.176,055] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 295[0m
+[00:01:21.176,055] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 310[0m
+[00:01:21.176,086] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 247[0m
+[00:01:21.176,086] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 244[0m
+[00:01:21.176,116] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:22.175,231] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:22.175,262] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 283[0m
+[00:01:22.175,262] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:01:22.175,292] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 304[0m
+[00:01:22.175,323] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 312[0m
+[00:01:22.175,323] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 244[0m
+[00:01:22.175,323] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:23.176,116] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:23.176,147] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 282[0m
+[00:01:23.176,177] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:01:23.176,177] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 306[0m
+[00:01:23.176,208] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 313[0m
+[00:01:23.176,208] [0m<inf> Lesson6_Exercise1: Number of current satellites: 4[0m
+[00:01:24.175,933] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:24.175,933] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 280[0m
+[00:01:24.175,964] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 278[0m
+[00:01:24.175,964] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 314[0m
+[00:01:24.175,994] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 313[0m
+[00:01:24.175,994] [0m<inf> Lesson6_Exercise1: Number of current satellites: 4[0m
+[00:01:25.175,689] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:25.175,720] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 281[0m
+[00:01:25.175,720] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 268[0m
+[00:01:25.175,750] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 315[0m
+[00:01:25.175,750] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 312[0m
+[00:01:25.175,781] [0m<inf> Lesson6_Exercise1: Number of current satellites: 4[0m
+[00:01:26.176,269] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:26.176,269] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 283[0m
+[00:01:26.176,300] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 268[0m
+[00:01:26.176,300] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 324[0m
+[00:01:26.176,300] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 307[0m
+[00:01:26.176,330] [0m<inf> Lesson6_Exercise1: Number of current satellites: 4[0m
+[00:01:27.176,940] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:27.176,971] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 262[0m
+[00:01:27.176,971] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 277[0m
+[00:01:27.177,001] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 264[0m
+[00:01:27.177,001] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 319[0m
+[00:01:27.177,032] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 302[0m
+[00:01:27.177,032] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 254[0m
+[00:01:27.177,032] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:28.177,917] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:28.177,947] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 243[0m
+[00:01:28.177,947] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 282[0m
+[00:01:28.177,978] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 264[0m
+[00:01:28.177,978] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:01:28.178,009] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 305[0m
+[00:01:28.178,009] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 247[0m
+[00:01:28.178,039] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 250[0m
+[00:01:28.178,039] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:29.178,070] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:29.178,100] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 244[0m
+[00:01:29.178,100] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 277[0m
+[00:01:29.178,131] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 267[0m
+[00:01:29.178,131] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 314[0m
+[00:01:29.178,161] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 305[0m
+[00:01:29.178,161] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 245[0m
+[00:01:29.178,161] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 240[0m
+[00:01:29.178,192] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 260[0m
+[00:01:29.178,192] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:30.177,856] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:30.177,886] [0m<inf> Lesson6_Exercise1: sv: 27, cn0: 246[0m
+[00:01:30.177,917] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 278[0m
+[00:01:30.177,917] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 271[0m
+[00:01:30.177,917] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 312[0m
+[00:01:30.177,947] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 304[0m
+[00:01:30.177,947] [0m<inf> Lesson6_Exercise1: sv: 10, cn0: 245[0m
+[00:01:30.177,978] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 240[0m
+[00:01:30.177,978] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 246[0m
+[00:01:30.178,009] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:31.178,100] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:31.178,161] [0m<inf> Lesson6_Exercise1: sv: 21, cn0: 266[0m
+[00:01:31.178,161] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 276[0m
+[00:01:31.178,161] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 269[0m
+[00:01:31.178,192] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 306[0m
+[00:01:31.178,192] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 306[0m
+[00:01:31.178,222] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 243[0m
+[00:01:31.178,222] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 246[0m
+[00:01:31.178,253] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:32.176,849] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:32.176,879] [0m<inf> Lesson6_Exercise1: sv: 21, cn0: 240[0m
+[00:01:32.176,879] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 272[0m
+[00:01:32.176,910] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 257[0m
+[00:01:32.176,910] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 302[0m
+[00:01:32.176,940] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 302[0m
+[00:01:32.176,940] [0m<inf> Lesson6_Exercise1: sv: 25, cn0: 258[0m
+[00:01:32.176,971] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 258[0m
+[00:01:32.176,971] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 245[0m
+[00:01:32.177,001] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:33.177,917] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:33.177,978] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 268[0m
+[00:01:33.177,978] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 265[0m
+[00:01:33.177,978] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 256[0m
+[00:01:33.178,009] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 301[0m
+[00:01:33.178,009] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 300[0m
+[00:01:33.178,039] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 247[0m
+[00:01:33.178,039] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:34.176,910] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:34.176,940] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 250[0m
+[00:01:34.176,940] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 272[0m
+[00:01:34.176,971] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 262[0m
+[00:01:34.177,001] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 304[0m
+[00:01:34.177,001] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 297[0m
+[00:01:34.177,032] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 251[0m
+[00:01:34.177,032] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 245[0m
+[00:01:34.177,032] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:35.177,001] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:35.177,032] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 245[0m
+[00:01:35.177,062] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 271[0m
+[00:01:35.177,062] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 266[0m
+[00:01:35.177,093] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 300[0m
+[00:01:35.177,093] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 296[0m
+[00:01:35.177,124] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 244[0m
+[00:01:35.177,124] [0m<inf> Lesson6_Exercise1: sv: 13, cn0: 249[0m
+[00:01:35.177,154] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:36.176,818] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:36.176,818] [0m<inf> Lesson6_Exercise1: sv: 11, cn0: 244[0m
+[00:01:36.176,849] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 272[0m
+[00:01:36.176,879] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:01:36.176,879] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 303[0m
+[00:01:36.176,879] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 297[0m
+[00:01:36.176,910] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 240[0m
+[00:01:36.176,910] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:37.176,879] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:37.176,910] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 271[0m
+[00:01:37.176,910] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:01:37.176,940] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 301[0m
+[00:01:37.176,940] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 301[0m
+[00:01:37.176,971] [0m<inf> Lesson6_Exercise1: sv: 24, cn0: 243[0m
+[00:01:37.176,971] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:38.176,269] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:38.176,269] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 354[0m
+[00:01:38.176,300] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 272[0m
+[00:01:38.176,300] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:01:38.176,330] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 305[0m
+[00:01:38.176,330] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 300[0m
+[00:01:38.176,361] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:39.177,856] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:39.177,886] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 313[0m
+[00:01:39.177,886] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 268[0m
+[00:01:39.177,917] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 273[0m
+[00:01:39.177,917] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 298[0m
+[00:01:39.177,917] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 300[0m
+[00:01:39.177,947] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:40.177,551] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:40.177,581] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 315[0m
+[00:01:40.177,581] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 265[0m
+[00:01:40.177,612] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:01:40.177,642] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 304[0m
+[00:01:40.177,642] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 299[0m
+[00:01:40.177,642] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 257[0m
+[00:01:40.177,673] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:41.180,572] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:41.180,603] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 319[0m
+[00:01:41.180,633] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 264[0m
+[00:01:41.180,633] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:01:41.180,633] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 303[0m
+[00:01:41.180,664] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 303[0m
+[00:01:41.180,664] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 243[0m
+[00:01:41.180,694] [0m<inf> Lesson6_Exercise1: sv: 15, cn0: 233[0m
+[00:01:41.180,694] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:01:42.179,534] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:42.179,565] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 317[0m
+[00:01:42.179,565] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 262[0m
+[00:01:42.179,595] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 283[0m
+[00:01:42.179,595] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 310[0m
+[00:01:42.179,626] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 307[0m
+[00:01:42.179,626] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 244[0m
+[00:01:42.179,656] [0m<inf> Lesson6_Exercise1: sv: 15, cn0: 240[0m
+[00:01:42.179,656] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 250[0m
+[00:01:42.179,656] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:43.178,619] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:43.178,649] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 321[0m
+[00:01:43.178,649] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 264[0m
+[00:01:43.178,680] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:01:43.178,680] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 305[0m
+[00:01:43.178,710] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 308[0m
+[00:01:43.178,710] [0m<inf> Lesson6_Exercise1: sv: 6, cn0: 243[0m
+[00:01:43.178,741] [0m<inf> Lesson6_Exercise1: sv: 15, cn0: 241[0m
+[00:01:43.178,741] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 246[0m
+[00:01:43.178,771] [0m<inf> Lesson6_Exercise1: Number of current satellites: 8[0m
+[00:01:44.178,741] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:44.178,771] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 327[0m
+[00:01:44.178,771] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 276[0m
+[00:01:44.178,802] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 280[0m
+[00:01:44.178,802] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:01:44.178,833] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 313[0m
+[00:01:44.178,833] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:45.179,107] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:45.179,138] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 331[0m
+[00:01:45.179,138] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 281[0m
+[00:01:45.179,168] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 280[0m
+[00:01:45.179,168] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:01:45.179,199] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 314[0m
+[00:01:45.179,199] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:46.178,344] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:46.178,344] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 329[0m
+[00:01:46.178,375] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 282[0m
+[00:01:46.178,375] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 283[0m
+[00:01:46.178,405] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:01:46.178,405] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 315[0m
+[00:01:46.178,436] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:47.179,626] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:47.179,656] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 325[0m
+[00:01:47.179,656] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 280[0m
+[00:01:47.179,687] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 282[0m
+[00:01:47.179,687] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 311[0m
+[00:01:47.179,718] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 316[0m
+[00:01:47.179,718] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:48.179,382] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:48.179,382] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 324[0m
+[00:01:48.179,412] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 276[0m
+[00:01:48.179,412] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 284[0m
+[00:01:48.179,443] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 307[0m
+[00:01:48.179,443] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 317[0m
+[00:01:48.179,473] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:49.179,718] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:49.179,748] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 323[0m
+[00:01:49.179,779] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 273[0m
+[00:01:49.179,779] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 280[0m
+[00:01:49.179,809] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 301[0m
+[00:01:49.179,809] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 318[0m
+[00:01:49.179,840] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 259[0m
+[00:01:49.179,840] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:50.179,809] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:50.179,840] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 322[0m
+[00:01:50.179,840] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 267[0m
+[00:01:50.179,870] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 280[0m
+[00:01:50.179,870] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 303[0m
+[00:01:50.179,901] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 317[0m
+[00:01:50.179,901] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 245[0m
+[00:01:50.179,901] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:51.179,168] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:51.179,229] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 318[0m
+[00:01:51.179,229] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 265[0m
+[00:01:51.179,260] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 271[0m
+[00:01:51.179,260] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 292[0m
+[00:01:51.179,260] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 315[0m
+[00:01:51.179,290] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 248[0m
+[00:01:51.179,290] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:52.179,199] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:52.179,199] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 318[0m
+[00:01:52.179,199] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 274[0m
+[00:01:52.179,229] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 270[0m
+[00:01:52.179,260] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 304[0m
+[00:01:52.179,260] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 318[0m
+[00:01:52.179,290] [0m<inf> Lesson6_Exercise1: sv: 16, cn0: 244[0m
+[00:01:52.179,290] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:53.179,595] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:53.179,626] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 319[0m
+[00:01:53.179,656] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 278[0m
+[00:01:53.179,656] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 272[0m
+[00:01:53.179,687] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 306[0m
+[00:01:53.179,687] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 320[0m
+[00:01:53.179,718] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:54.179,870] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:54.179,901] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 323[0m
+[00:01:54.179,901] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 290[0m
+[00:01:54.179,931] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 279[0m
+[00:01:54.179,931] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 317[0m
+[00:01:54.179,962] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 326[0m
+[00:01:54.179,962] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 251[0m
+[00:01:54.179,992] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:55.179,870] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:55.179,931] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 326[0m
+[00:01:55.179,931] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 296[0m
+[00:01:55.179,931] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 279[0m
+[00:01:55.179,962] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 320[0m
+[00:01:55.179,962] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 329[0m
+[00:01:55.179,992] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 243[0m
+[00:01:55.179,992] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:56.179,962] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:56.179,992] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 330[0m
+[00:01:56.179,992] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 305[0m
+[00:01:56.180,023] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:01:56.180,023] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:01:56.180,053] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 328[0m
+[00:01:56.180,053] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 242[0m
+[00:01:56.180,084] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:57.179,168] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:57.179,199] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 329[0m
+[00:01:57.179,229] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 305[0m
+[00:01:57.179,229] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 267[0m
+[00:01:57.179,260] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 317[0m
+[00:01:57.179,260] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 329[0m
+[00:01:57.179,260] [0m<inf> Lesson6_Exercise1: sv: 7, cn0: 246[0m
+[00:01:57.179,290] [0m<inf> Lesson6_Exercise1: Number of current satellites: 6[0m
+[00:01:58.179,809] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:58.179,840] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 330[0m
+[00:01:58.179,840] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 305[0m
+[00:01:58.179,870] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 264[0m
+[00:01:58.179,870] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 319[0m
+[00:01:58.179,901] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 330[0m
+[00:01:58.179,901] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:01:59.179,779] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:01:59.179,809] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 327[0m
+[00:01:59.179,840] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 301[0m
+[00:01:59.179,840] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 272[0m
+[00:01:59.179,840] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:01:59.179,870] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 330[0m
+[00:01:59.179,870] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:00.179,504] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:00.179,504] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 327[0m
+[00:02:00.179,504] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 301[0m
+[00:02:00.179,534] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:02:00.179,565] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 320[0m
+[00:02:00.179,565] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 330[0m
+[00:02:00.179,595] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:01.179,809] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:01.179,840] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 327[0m
+[00:02:01.179,840] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 300[0m
+[00:02:01.179,870] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 278[0m
+[00:02:01.179,870] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:02:01.179,901] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 331[0m
+[00:02:01.179,901] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:02.179,412] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:02.179,443] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 323[0m
+[00:02:02.179,443] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 300[0m
+[00:02:02.179,473] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 280[0m
+[00:02:02.179,473] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:02:02.179,504] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 327[0m
+[00:02:02.179,504] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:03.179,962] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:03.179,992] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 324[0m
+[00:02:03.180,023] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 299[0m
+[00:02:03.180,023] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:02:03.180,053] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:02:03.180,053] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 325[0m
+[00:02:03.180,053] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:04.180,053] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:04.180,084] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 325[0m
+[00:02:04.180,084] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 300[0m
+[00:02:04.180,084] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 278[0m
+[00:02:04.180,114] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 324[0m
+[00:02:04.180,145] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 325[0m
+[00:02:04.180,145] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:05.180,053] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:05.180,084] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 327[0m
+[00:02:05.180,114] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 296[0m
+[00:02:05.180,114] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:02:05.180,114] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 319[0m
+[00:02:05.180,145] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 326[0m
+[00:02:05.180,145] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:06.180,908] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:06.180,938] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 328[0m
+[00:02:06.180,938] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 294[0m
+[00:02:06.180,969] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:02:06.180,969] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 321[0m
+[00:02:06.180,999] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 328[0m
+[00:02:06.180,999] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:07.181,457] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:07.181,488] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 328[0m
+[00:02:07.181,518] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 296[0m
+[00:02:07.181,518] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 280[0m
+[00:02:07.181,549] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:02:07.181,549] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 329[0m
+[00:02:07.181,579] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 240[0m
+[00:02:07.181,579] [0m<inf> Lesson6_Exercise1: sv: 4, cn0: 242[0m
+[00:02:07.181,579] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:02:08.181,304] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:08.181,335] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 327[0m
+[00:02:08.181,365] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 296[0m
+[00:02:08.181,365] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 278[0m
+[00:02:08.181,365] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 316[0m
+[00:02:08.181,396] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 330[0m
+[00:02:08.181,396] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 246[0m
+[00:02:08.181,427] [0m<inf> Lesson6_Exercise1: sv: 4, cn0: 246[0m
+[00:02:08.181,427] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:02:09.180,603] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:09.180,633] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 326[0m
+[00:02:09.180,633] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 295[0m
+[00:02:09.180,664] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 276[0m
+[00:02:09.180,664] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 313[0m
+[00:02:09.180,664] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 330[0m
+[00:02:09.180,694] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 244[0m
+[00:02:09.180,694] [0m<inf> Lesson6_Exercise1: sv: 4, cn0: 241[0m
+[00:02:09.180,725] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+[00:02:10.179,382] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:10.179,412] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 323[0m
+[00:02:10.179,412] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 296[0m
+[00:02:10.179,443] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 275[0m
+[00:02:10.179,443] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 317[0m
+[00:02:10.179,473] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 328[0m
+[00:02:10.179,473] [0m<inf> Lesson6_Exercise1: sv: 17, cn0: 245[0m
+[00:02:10.179,504] [0m<inf> Lesson6_Exercise1: sv: 4, cn0: 241[0m
+[00:02:10.179,504] [0m<inf> Lesson6_Exercise1: Number of current satellites: 7[0m
+
+15:46:00.251,60.758072,10.571524,449.7[00:02:11.198,883] [0m<inf> Lesson6_Exercise1: Searching...[0m
+[00:02:11.198,944] [0m<inf> Lesson6_Exercise1: sv: 2, cn0: 320[0m
+[00:02:11.198,944] [0m<inf> Lesson6_Exercise1: sv: 26, cn0: 294[0m
+[00:02:11.198,944] [0m<inf> Lesson6_Exercise1: sv: 29, cn0: 277[0m
+[00:02:11.198,974] [0m<inf> Lesson6_Exercise1: sv: 18, cn0: 317[0m
+[00:02:11.198,974] [0m<inf> Lesson6_Exercise1: sv: 31, cn0: 329[0m
+[00:02:11.199,005] [0m<inf> Lesson6_Exercise1: Number of current satellites: 5[0m
+[00:02:11.202,484] [0m<inf> Lesson6_Exercise1: Time to first fix: 119 s[0m
+[00:02:11.202,514] [0m<inf> Lesson6_Exercise1: 
+Time,Latitude,Longitude,Altitude[0m
+
+15:46:05.259,60.758006,10.571612,458.8
+15:46:33.259,60.758146,10.571596,430.1
+15:46:39.376,60.757645,10.571806,496.0
+15:46:40.376,60.757740,10.571737,486.5
+15:46:41.376,60.757794,10.571696,478.8
+15:46:42.376,60.757852,10.571662,471.2
+15:46:43.376,60.757881,10.571628,468.8
+15:46:44.376,60.757906,10.571609,465.5
+15:46:45.376,60.757926,10.571595,463.0
+15:46:46.376,60.757939,10.571586,461.4
+15:46:47.376,60.757945,10.571586,460.7
+15:46:48.376,60.757946,10.571596,460.7
+15:46:49.376,60.757954,10.571589,460.6
+15:46:50.376,60.757962,10.571582,459.9
+15:46:51.376,60.757969,10.571579,460.0
+15:46:52.376,60.757964,10.571576,461.9
+15:46:53.376,60.757964,10.571568,462.3
+15:46:54.376,60.757964,10.571569,463.1
+15:46:55.376,60.757960,10.571573,463.7
+15:46:56.376,60.757955,10.571579,464.2
+15:46:57.376,60.757953,10.571579,465.1
+15:46:58.376,60.757959,10.571573,465.0
+15:46:59.376,60.757965,10.571567,464.8
+15:47:00.376,60.757972,10.571561,464.6
+15:47:01.376,60.757979,10.571553,464.1
+15:47:02.376,60.757985,10.571546,463.3
+15:47:03.376,60.757990,10.571552,462.6
+15:47:04.376,60.757993,10.571560,462.0
+15:47:05.376,60.757996,10.571566,460.9
+15:47:06.376,60.758000,10.571571,459.6
+15:47:07.376,60.757995,10.571578,459.4
+15:47:08.376,60.757997,10.571574,458.9
+15:47:09.376,60.757996,10.571572,458.6
+15:47:10.376,60.758002,10.571566,457.8
+15:47:11.376,60.758000,10.571566,457.9
+15:47:12.376,60.757994,10.571575,458.4
+15:47:13.376,60.757992,10.571586,457.8
+15:47:14.376,60.757994,10.571594,456.7
+15:47:15.376,60.757996,10.571602,456.0
+15:47:16.376,60.757999,10.571601,455.1
+15:47:17.376,60.758001,10.571594,454.9
+15:47:18.376,60.757998,10.571588,455.6
+15:47:19.376,60.757996,10.571580,456.4
+15:47:20.376,60.757996,10.571578,456.7
+15:47:21.376,60.757993,10.571574,457.5
+15:47:22.376,60.757989,10.571573,457.6
+15:47:23.376,60.757987,10.571572,458.1
+15:47:24.376,60.757986,10.571568,458.7
+15:47:25.376,60.757995,10.571559,458.3
+15:47:26.376,60.758002,10.571554,458.0
+15:47:27.376,60.758007,10.571549,457.7
+15:47:28.376,60.758014,10.571545,457.2
+15:47:29.376,60.758015,10.571545,457.2
+15:47:30.376,60.758016,10.571544,457.2
+15:47:31.376,60.758016,10.571542,457.6
+15:47:32.376,60.758014,10.571541,458.1
+15:47:33.376,60.758007,10.571548,458.8
+15:47:34.376,60.758002,10.571554,459.3
+15:47:35.376,60.757996,10.571561,459.6
+15:47:36.376,60.757994,10.571559,459.9
+15:47:37.376,60.757990,10.571554,460.6
+15:47:38.376,60.757988,10.571549,461.0
+15:47:39.376,60.757985,10.571546,461.3
+15:47:40.376,60.757985,10.571542,461.1
+15:47:41.376,60.757986,10.571541,460.9
+15:48:05.259,60.757937,10.571583,474.6
+15:48:33.259,60.757944,10.571453,466.3
+15:49:05.259,60.757960,10.571351,470.1
+15:49:35.259,60.757590,10.571213,478.8
+15:50:07.259,60.757798,10.570263,460.0
+15:50:38.259,60.757774,10.569452,465.2
+15:51:05.259,60.757631,10.568496,486.2
+15:51:34.259,60.757541,10.567477,496.7
+15:52:05.259,60.757630,10.566371,475.6
+15:52:37.259,60.758119,10.565613,487.6
+15:53:17.259,60.758123,10.565739,891.2
+15:53:37.259,60.759017,10.564924,477.4
+15:54:09.259,60.759338,10.564748,579.1
+15:54:37.259,60.759849,10.564131,488.0
+15:55:11.259,60.760148,10.563741,580.0
+15:55:38.259,60.760499,10.562798,575.6
+15:56:06.259,60.760582,10.562165,646.9
+15:57:00.259,60.761367,10.560518,505.8
+15:57:03.258,60.761375,10.560404,496.1
+15:57:33.259,60.761839,10.559868,502.6
+15:58:03.260,60.761980,10.558963,509.2
+15:58:34.260,60.762099,10.558106,484.6
+15:59:05.260,60.762383,10.557130,517.1
+15:59:33.260,60.762725,10.556188,538.7
+16:00:06.260,60.762991,10.555383,490.0
+16:00:11.376,60.763359,10.555494,534.1
+16:00:12.376,60.763348,10.555468,531.6
+16:00:13.376,60.763324,10.555409,532.4
+16:00:14.376,60.763323,10.555384,529.3
+16:00:15.376,60.763315,10.555346,527.4
+16:00:16.376,60.763314,10.555329,523.6
+16:00:17.376,60.763311,10.555305,518.6
+16:00:18.376,60.763318,10.555279,516.1
+16:00:19.376,60.763317,10.555254,512.4
+16:00:20.376,60.763321,10.555236,509.2
+16:00:21.376,60.763320,10.555204,508.3
+16:00:22.376,60.763323,10.555185,506.0
+16:00:23.376,60.763333,10.555174,505.1
+16:00:24.376,60.763338,10.555155,504.7
+16:00:25.376,60.763344,10.555132,503.3
+16:00:26.376,60.763340,10.555077,503.4
+16:00:27.376,60.763355,10.555067,502.5
+16:00:28.376,60.763360,10.555034,502.3
+16:00:29.376,60.763369,10.555013,502.7
+16:00:30.376,60.763383,10.554994,502.6
+16:00:31.376,60.763399,10.554976,502.5
+16:00:32.376,60.763408,10.554953,502.1
+16:00:33.376,60.763422,10.554932,502.1
+16:00:34.376,60.763434,10.554911,502.0
+16:00:35.376,60.763447,10.554893,502.2
+16:00:36.376,60.763455,10.554878,501.1
+16:00:37.376,60.763467,10.554853,501.0
+16:00:38.376,60.763475,10.554828,501.2
+16:00:39.376,60.763482,10.554804,500.3
+16:00:40.376,60.763491,10.554783,499.8
+16:00:41.376,60.763502,10.554765,500.2
+16:00:42.376,60.763514,10.554748,499.4
+16:00:43.376,60.763528,10.554734,499.0
+16:00:44.376,60.763541,10.554721,498.4
+16:00:45.376,60.763554,10.554701,498.0
+16:00:46.376,60.763565,10.554683,497.7
+16:00:47.376,60.763583,10.554670,498.1
+16:00:48.376,60.763599,10.554651,497.6
+16:00:49.376,60.763615,10.554627,497.2
+16:00:50.376,60.763628,10.554601,497.0
+16:00:51.376,60.763642,10.554580,497.1
+16:00:52.376,60.763657,10.554560,497.1
+16:00:53.376,60.763673,10.554541,496.3
+16:00:54.376,60.763688,10.554517,496.0
+16:00:55.376,60.763704,10.554504,495.7
+16:00:56.376,60.763716,10.554483,495.3
+16:00:57.376,60.763723,10.554459,494.5
+16:00:58.376,60.763737,10.554446,493.5
+16:00:59.376,60.763751,10.554431,492.9
+16:01:00.376,60.763763,10.554417,492.8
+16:01:01.376,60.763776,10.554398,492.5
+16:01:02.376,60.763783,10.554379,491.6
+16:01:03.376,60.763797,10.554358,491.3
+16:01:04.376,60.763816,10.554335,491.7
+16:01:05.376,60.763829,10.554311,491.5
+16:01:06.376,60.763843,10.554293,491.6
+16:01:07.376,60.763860,10.554281,491.7
+16:01:08.376,60.763875,10.554265,491.9
+16:01:09.376,60.763890,10.554248,491.9
+16:01:10.376,60.763899,10.554234,491.3
+16:01:11.376,60.763913,10.554222,490.5
+16:01:34.260,60.764131,10.553938,469.4
+16:02:04.259,60.764613,10.553538,473.9
+16:02:34.260,60.765101,10.553879,500.3
+16:03:03.260,60.765561,10.554183,482.9
+16:03:34.259,60.766083,10.554305,496.0
+16:04:04.259,60.766434,10.553852,478.8
+16:04:35.260,60.766760,10.553094,471.1
+16:05:04.260,60.767324,10.553019,512.1
+16:05:34.259,60.767736,10.553001,467.3
+16:06:05.260,60.768337,10.553260,494.6
+16:06:35.260,60.768808,10.553229,498.0
+16:07:07.260,60.769334,10.553316,510.6
+16:07:35.260,60.769700,10.553368,472.8
+16:08:04.260,60.769975,10.553546,496.8
+16:08:34.260,60.769591,10.553270,504.6
+16:09:04.259,60.769138,10.553151,502.0
+16:09:34.260,60.768577,10.553207,476.2
+16:10:05.260,60.767861,10.553247,438.0
+16:10:35.260,60.767526,10.553043,500.0
+16:11:05.260,60.767236,10.552979,524.7
+16:11:35.260,60.766713,10.553535,506.4
+16:12:05.260,60.766298,10.554056,507.1
+16:12:34.260,60.765713,10.554529,510.1
+16:13:04.260,60.765363,10.554049,503.0
+16:13:34.260,60.764970,10.553672,494.0
+16:13:40.376,60.764810,10.553740,505.8
+16:13:41.376,60.764822,10.553699,504.7
+16:13:42.376,60.764816,10.553663,501.9
+16:13:43.376,60.764802,10.553647,500.5
+16:13:44.376,60.764788,10.553636,500.9
+16:13:45.376,60.764771,10.553640,500.2
+16:13:46.376,60.764752,10.553628,500.8
+16:13:47.376,60.764730,10.553633,500.5
+16:13:48.376,60.764714,10.553624,500.8
+16:13:49.376,60.764701,10.553620,501.3
+16:13:50.376,60.764688,10.553618,501.0
+16:13:51.376,60.764672,10.553616,500.5
+16:13:52.376,60.764656,10.553622,499.6
+16:13:53.376,60.764638,10.553624,499.7
+16:13:54.376,60.764618,10.553628,498.8
+16:13:55.376,60.764599,10.553628,497.8
+16:13:56.376,60.764585,10.553636,497.3
+16:13:57.376,60.764566,10.553637,495.3
+16:13:58.376,60.764546,10.553640,494.7
+16:13:59.376,60.764527,10.553644,494.3
+16:14:00.376,60.764512,10.553651,495.0
+16:14:01.376,60.764497,10.553659,495.7
+16:14:02.376,60.764480,10.553664,495.6
+16:14:03.376,60.764460,10.553669,495.3
+16:14:04.376,60.764445,10.553673,495.2
+16:14:05.376,60.764431,10.553683,495.1
+16:14:06.376,60.764417,10.553691,495.7
+16:14:07.376,60.764402,10.553699,495.7
+16:14:08.376,60.764393,10.553708,495.3
+16:14:09.376,60.764374,10.553717,495.5
+16:14:10.376,60.764362,10.553722,495.8
+16:14:11.376,60.764346,10.553719,496.4
+16:14:12.376,60.764333,10.553721,496.7
+16:14:13.376,60.764323,10.553731,497.1
+16:14:14.376,60.764306,10.553738,496.4
+16:14:15.376,60.764299,10.553742,496.6
+16:14:16.376,60.764279,10.553745,495.0
+16:14:17.376,60.764272,10.553752,495.0
+16:14:18.376,60.764256,10.553762,494.9
+16:14:19.376,60.764242,10.553767,494.3
+16:14:20.376,60.764227,10.553785,495.0
+16:14:21.376,60.764220,10.553798,495.8
+16:14:22.376,60.764206,10.553810,495.6
+16:14:23.376,60.764196,10.553826,496.8
+16:14:24.376,60.764179,10.553843,496.7
+16:14:25.376,60.764166,10.553845,495.8
+16:14:26.376,60.764146,10.553858,496.6
+16:14:27.376,60.764122,10.553879,495.5
+16:14:28.376,60.764099,10.553876,488.9
+16:14:29.376,60.764089,10.553908,491.2
+16:14:30.376,60.764082,10.553937,493.6
+16:14:31.376,60.764071,10.553958,493.9
+16:14:32.376,60.764065,10.553975,495.2
+16:14:33.376,60.764048,10.553986,493.7
+16:14:34.376,60.764035,10.553996,493.1
+16:14:35.376,60.764027,10.554004,493.8
+16:14:36.376,60.764014,10.554023,494.3
+16:14:37.376,60.764004,10.554042,494.6
+16:14:38.376,60.763990,10.554060,495.8
+16:14:39.376,60.763976,10.554081,496.5
+16:14:40.376,60.763957,10.554105,496.6
+16:14:41.376,60.763946,10.554122,496.2
+16:15:07.260,60.763442,10.554512,468.6
+16:15:36.260,60.763196,10.555186,520.9
+16:16:22.260,60.762647,10.556191,482.8
+16:16:41.260,60.762333,10.556624,451.8
+16:17:04.260,60.762298,10.557319,485.9
+16:17:35.260,60.762135,10.558222,520.7
+16:18:04.261,60.761928,10.559138,517.1
+16:18:34.260,60.761742,10.559901,495.5
+16:19:03.261,60.761479,10.560574,518.2
+16:19:34.261,60.760835,10.561199,480.1
+16:20:05.261,60.760798,10.562162,546.8
+16:20:35.261,60.760433,10.562982,487.1
+16:21:05.261,60.760092,10.563773,495.9
+16:21:34.261,60.759607,10.564739,576.9
+16:22:03.261,60.759259,10.565050,526.3
+16:22:35.261,60.759044,10.565089,596.9
+16:23:03.261,60.758376,10.565302,513.0
+16:23:35.260,60.757877,10.565687,452.4
+16:24:05.260,60.757518,10.566570,460.0
+16:24:33.261,60.757427,10.567174,452.2
+16:25:05.261,60.757584,10.568138,455.6
+16:25:34.261,60.757868,10.568933,466.4
+16:26:05.261,60.757776,10.569960,456.1
+16:26:35.260,60.757464,10.570616,412.1
+16:27:04.261,60.757969,10.571430,472.3
+16:27:10.377,60.757931,10.571591,444.8
+16:27:11.377,60.757925,10.571645,447.8
+16:27:12.377,60.757932,10.571692,452.0
+16:27:13.377,60.757949,10.571721,452.4
+16:27:14.377,60.757965,10.571752,453.5
+16:27:15.377,60.757977,10.571758,453.4
+16:27:16.377,60.757984,10.571748,453.4
+16:27:17.377,60.757990,10.571725,452.5
+16:27:18.377,60.757995,10.571690,452.3
+16:27:19.377,60.757992,10.571657,453.4
+16:27:20.377,60.757982,10.571627,453.6
+16:27:21.377,60.757974,10.571608,453.9
+16:27:22.377,60.757966,10.571605,454.6
+16:27:23.377,60.757956,10.571602,452.8
+16:27:24.377,60.757955,10.571604,453.3
+16:27:25.377,60.757953,10.571610,453.4
+16:27:26.377,60.757952,10.571617,453.3
+16:27:27.377,60.757950,10.571620,452.4
+16:27:28.377,60.757949,10.571620,452.0
+16:27:29.377,60.757947,10.571623,451.1
+16:27:30.377,60.757944,10.571621,450.3
+16:27:31.377,60.757939,10.571619,449.0
+16:27:32.377,60.757935,10.571622,448.0
+16:27:33.377,60.757928,10.571621,446.3
+16:27:34.377,60.757925,10.571627,446.2
+16:27:35.377,60.757925,10.571637,446.8
+16:27:36.377,60.757927,10.571637,446.6
+16:27:37.377,60.757928,10.571637,446.6
+16:27:38.377,60.757933,10.571632,447.2
+16:27:39.377,60.757937,10.571633,448.2
+16:27:40.377,60.757942,10.571632,449.7
+16:27:41.377,60.757946,10.571629,450.9
+16:27:42.377,60.757943,10.571627,450.0
+16:27:43.377,60.757941,10.571628,450.4
+16:27:44.377,60.757941,10.571623,450.0
+16:27:45.377,60.757939,10.571620,449.4
+16:27:46.377,60.757942,10.571617,449.9
+16:27:47.377,60.757943,10.571611,450.1
+16:27:48.377,60.757940,10.571604,449.9
+16:27:49.377,60.757936,10.571599,449.9
+16:27:50.377,60.757931,10.571592,448.1
+16:27:51.377,60.757928,10.571585,446.4
+16:27:52.377,60.757933,10.571582,446.7
+16:27:53.377,60.757939,10.571582,447.4
+16:27:54.377,60.757944,10.571586,448.8
+16:27:55.377,60.757948,10.571594,450.8
+16:27:56.377,60.757952,10.571599,452.7
+16:27:57.377,60.757952,10.571603,454.1
+16:27:58.377,60.757956,10.571607,455.7
+16:27:59.377,60.757960,10.571609,456.9
+16:28:00.377,60.757963,10.571605,457.4
+16:28:01.377,60.757965,10.571599,457.7
+16:28:02.377,60.757967,10.571595,458.0
+16:28:03.377,60.757970,10.571591,458.7
+16:28:04.377,60.757973,10.571587,459.4
+16:28:05.377,60.757976,10.571584,459.9
+16:28:06.377,60.757976,10.571574,459.5
+16:28:07.377,60.757982,10.571567,460.1
+16:28:08.377,60.757987,10.571560,460.7
+16:28:09.377,60.757993,10.571551,460.9
+16:28:10.377,60.758002,10.571546,461.5
+16:28:11.377,60.758012,10.571542,462.4
+16:28:34.261,60.757831,10.571444,420.3
+16:29:04.261,60.758024,10.571594,478.5
